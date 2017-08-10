@@ -1,4 +1,6 @@
 # Ecommerce_MarketMixModelling_BudgetOptimization
+Additional Data Files available at Google Drive Link https://drive.google.com/open?id=0ByejGgzAgirebzhPU0RxbHBOQWs
+
 Business Understanding
 ElecKart is an e-commerce firm specialising in electronic products. Over the last one year, they had spent a significant amount of money in marketing. Occasionally, they had also offered big-ticket promotions (similar to the Big Billion Day). They are about to create a marketing budget for the next year which includes spending on commercials, online campaigns, and pricing & promotion strategies. The CFO feels that the money spent over last 12 months on marketing was not sufficiently impactful and that they can either cut on the budget or reallocate it  optimally across marketing levers to improve the revenue response.
  
